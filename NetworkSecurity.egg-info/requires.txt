@@ -1,8 +1,5 @@
 python-dotenv
 pandas
 numpy
-# setuptools
 pymongo
 certifi
-
-#-e .
